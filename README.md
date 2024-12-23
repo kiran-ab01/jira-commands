@@ -22,3 +22,6 @@ chown -R username:usergroup --> it give permisstion to all directory folders by 
 -->tail -g n -->to desply the last update
 
 
+--> Diff -h filename /home/filename
+
+
